@@ -2,8 +2,8 @@
 //  Util.m
 //  wifiTransfer
 //
-//  Created by Apple on 8/22/14.
-//  Copyright (c) 2014 rhythm. All rights reserved.
+//  Created by rhythmzhang on 8/22/14.
+//  Copyright (c) 2014 rhythmzhang. All rights reserved.
 //
 
 #import "Util.h"

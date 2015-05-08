@@ -2,7 +2,7 @@
 //  UMDMetadata.m
 //  reader.multidocs
 //
-//  Created by jeruizhang on 15-2-2.
+//  Created by rhythmzhang on 15-2-2.
 //  Copyright (c) 2015年 rhythmzhang. All rights reserved.
 //
 
